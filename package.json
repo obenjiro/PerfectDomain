@@ -1,0 +1,26 @@
+{
+  "name": "PerfectDomain",
+  "version": "0.0.1",
+  "description": "A domain that works",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiboy/PerfectDomain.git"
+  },
+  "author": "Ai_boy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiboy/PerfectDomain/issues"
+  },
+  "homepage": "https://github.com/aiboy/PerfectDomain",
+  "dependencies": {
+    "function-name": "=0.0.2",
+    "trace": "=1.0.2"
+  },
+  "engines": {
+    "node": ">=0.11.12"
+  }
+}
